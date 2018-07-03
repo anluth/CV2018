@@ -8,7 +8,7 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://anluth.github.io/CV2018/)
+[![Resume Preview]()](https://anluth.github.io/CV2018/)
 
 **[View Live Preview](https://anluth.github.io/CV2018/)**
 
